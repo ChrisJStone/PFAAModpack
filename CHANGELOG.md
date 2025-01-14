@@ -1,3 +1,71 @@
+#### 1.4.0-RC1
+
+* Updated Antique Atlas to 4.4.6-GTNH
+* Updated Better Questing to 3.7.3-GTNH
+* Updated Applied Energistics 2 to rv3-beta-518-GTNH
+* Updated Build Craft to 7.1.42
+* Updated Carpenter's Blocks to 3.7.0-GTNH
+* Updated Custom Main Menu to 1.12.0
+
+#### 1.4.0-Beta1
+
+Added the following mods for QOL / development enhancement
+
+* BetterCrashes
+* Better Achievements
+
+Updated the following mods specifically for use in PFAA
+
+* MagnetiCraft
+* Matter Overdrive
+
+Updated the following mods to releases made by GT New Horizons
+
+* BetterQuesting
+* Computronics
+* BD lib
+* Applied Energistics 2
+* Buildcraft
+* BuildCraft Compat
+* Carpenter's Blocks
+* Custom Main Menu
+* EnderCore
+* Forge Multipart
+* FTBLib
+* FTBUtilities
+* Iron Chests
+* Malisis Core
+* Malisis' Doors
+* Mod Tweaker 2
+* MrTJPCore
+* Nuclear Control 2
+* NotEnoughItems
+* CraftTweaker
+* OpenMods
+* OpenBlocks
+* OpenComputers
+* ProjectRed Core
+* Railcraft
+* Storage Drawers
+* Waila
+* WAILA Plugins
+* Wireless Redstone
+* CodeChickenCore
+* CodeChickenLib
+
+
+Added the following mods as needed dependencies
+
+* AsieLib
+* ForgeRelocation
+* GTNH Lib
+* UniMixins
+
+Other mod updates
+
+* Bibliocraft
+* IndustiralCraft 2
+
 #### 1.3.1
 
 This update is brought to you by Horthrax and ladyofwc.
